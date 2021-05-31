@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Noah",
+      "lastName": "Ligpitan",
+      "email": "noaligpitan@gmail.com",
+      "age": 24,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Ark",
+      "lastName": "Industries",
+      "email": "arkindustries21@gmail.com",
+      "age": 24,
+      "companyId": "2"
+    },
+    {
+      "firstName": "debugger1",
+      "lastName": "hired1",
+      "email": "debugger1@gmail.com",
+      "age": 30,
+      "companyId": "2",
+      "id": "eT-EZVs"
+    },
+    {
+      "firstName": "debugger2",
+      "lastName": "hired2",
+      "email": "debugger2@gmail.com",
+      "age": 30,
+      "companyId": "1",
+      "id": "Gj7LlPG"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Boring Company",
+      "desc": "This is company made by perseverance"
+    },
+    {
+      "id": "2",
+      "name": "Ark Company",
+      "desc": "This is company made by Self Study"
+    }
+  ]
+}
